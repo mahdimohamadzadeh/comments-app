@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "text": "This is a comment from user1",
+    "author": "User1",
+    "time": "2024-09-17T09:30:00.969Z",
+    "replies": []
+  },
+  {
+    "id": 2,
+    "text": "This is a comment from user 2",
+    "author": "User2",
+    "time": "2024-09-17T05:30:00.809Z",
+    "replies": []
+  },
+  {
+    "id": 3,
+    "text": "This is a comment user 3",
+    "author": "User3",
+    "time": "2024-09-16T05:30:00.809Z",
+    "replies": []
+  },
+  {
+    "id": 4,
+    "text": "This is a comment user 4",
+    "author": "User4",
+    "time": "2024-09-15T05:30:00.809Z",
+    "replies": []
+  },
+  {
+    "id": 5,
+    "text": "This is a comment user 5",
+    "author": "User5",
+    "time": "2024-09-12T05:30:00.809Z",
+    "replies": []
+  },
+  {
+    "id": 6,
+    "text": "This is a comment user 6",
+    "author": "User6",
+    "time": "2024-09-10T05:30:00.809Z",
+    "replies": []
+  },
+  {
+    "id": 7,
+    "text": "This is a comment user 7",
+    "author": "User7",
+    "time": "2024-09-12T05:30:00.809Z",
+    "replies": []
+  },
+  {
+    "id": 8,
+    "text": "This is a comment user 8",
+    "author": "User8",
+    "time": "2024-09-12T05:30:00.809Z",
+    "replies": []
+  },
+  {
+    "id": 9,
+    "text": "This is a comment user 9",
+    "author": "User9",
+    "time": "2024-09-12T05:30:00.809Z",
+    "replies": []
+  },
+  {
+    "id": 10,
+    "text": "This is a comment user 10",
+    "author": "User10",
+    "time": "2024-09-12T05:30:00.809Z",
+    "replies": []
+  }
+]
